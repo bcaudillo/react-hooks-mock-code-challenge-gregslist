@@ -5,7 +5,7 @@ function ListingCard() {
     <li className="card">
       <div className="image">
         <span className="price">$0</span>
-        <img src={"https://via.placeholder.com/300x300"} alt={"description"} />
+        <img src={"http://localhost:6001/listings"} alt={"description"} />
       </div>
       <div className="details">
         {true ? (
